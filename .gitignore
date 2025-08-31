@@ -1,0 +1,8 @@
+db.sql
+password.txt
+
+# Ignore file types
+*.log
+
+# Ignore directories
+node_modules
