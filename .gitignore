@@ -8,3 +8,4 @@ password.txt
 node_modules
 
 about.htm
+__pycache__/
